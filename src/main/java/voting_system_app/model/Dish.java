@@ -7,7 +7,7 @@ import lombok.EqualsAndHashCode;
  * @Alima-T 6/26/2022
  */
 @Data
-@EqualsAndHashCode(callSuper=false)
+@EqualsAndHashCode(callSuper = false)
 public class Dish {
 
     private String name;
